@@ -66,7 +66,7 @@ function removeMealFromFav(evt){
 
 // redirect user to home page
 function gotoHome(){
-    location.href = "index2.html";
+    location.href = "index.html";
 }
 
 
